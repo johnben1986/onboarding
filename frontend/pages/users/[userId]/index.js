@@ -11,7 +11,7 @@ function SellerDashboardPage() {
 
   useEffect(()=>{
     // window.location.href = '/dashboard';
-    router.push('/dashboard');
+    //router.push('/dashboard');
   });
   
   return (

@@ -118,5 +118,5 @@ const MarketplaceDomainsPage = (userId) => {
     </main>
   );
 }
-// export default withAuth(MarketplaceDomainsPage);
+ //export default withAuth(MarketplaceDomainsPage);
 export default MarketplaceDomainsPage;

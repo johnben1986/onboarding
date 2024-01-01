@@ -32,7 +32,7 @@ export default function AppLayout({ children }) {
     "/web3/our-story",
     "/web3/ipfs",
     "/web3/partners",
-    "/users/me",
+    // "/users/me",
     "/quickbuild/builder",
 
   ];

@@ -11,7 +11,7 @@ const pageConfigs = [
   { path: /^\/marketplace.*$/, priority: 0.5 },
   { path: /^\/quickbuild$/, priority: 0.9 },
   { path: /^\/terms-of-use$/, priority: 0.5 },
-  { path: /^\/users.*$/, priority: 0.5 },
+  // { path: /^\/users.*$/, priority: 0.5 },
   { path: /^\/web3-tld$/, priority: 0.9 },
 ];
 

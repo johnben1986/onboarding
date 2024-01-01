@@ -185,7 +185,7 @@ const Dashboard = () => {
               className="row-span-2 col-start-4 row-start-1 bg-primary-newBgColor/90 p-5 py-4 rounded-3xl"
               href={"/marketplace"}>
               <h3 className="text-15 font-semibold text-white lg:text-20 text-center">
-               Martketplace
+               Marketplace
               </h3>
               <div className="h-[100px] w-[150px] ml-[25px] -mt-8">
                 <Image

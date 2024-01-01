@@ -25,7 +25,7 @@ const domainLinks = [
   {
     name: "Account",
     icon: <FaUserAlt />,
-    href: "/users/me",
+    href: "/profile",
     style: "font-semibold",
   },
   {
@@ -55,7 +55,8 @@ const tabStates = {
 
 const uauth = new UAuth({
   clientID: "a608ba5e-6f30-4046-8725-68149c137557",
-  redirectUri: "https://web3onboarding.com/dashboard",
+  redirectUri: "https://web3onboarding.com/",
+  // redirectUri: "https://web3onboarding.com/dashboard",
   scope: "openid wallet email profile:optional social:optional",
 });
 

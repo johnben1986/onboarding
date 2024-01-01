@@ -78,7 +78,7 @@ const ProfileDropdown = ({ onClick }) => {
       ) : (
           <>
                             <div className="flex flex-col gap-4 px-4 xl2:px-10">   
-                    <Link href={'/register'} className='bg-blue-900 flex items-center justify-center border-2 border-white h-[48px] md:h-[37px] rounded-full  px-5 w-full text-15 text-white hover:text-white'>Create an Account</Link>
+                    <Link href={'/login'} className='bg-blue-900 flex items-center justify-center border-2 border-white h-[48px] md:h-[37px] rounded-full  px-5 w-full text-15 text-white hover:text-white'>Create an Account</Link>
                 </div>
           {/* <button
             id="basic-button"

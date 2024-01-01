@@ -532,8 +532,8 @@ const NewHome = () => {
       <section id="pricing" className="panel bg-image5 section-center flex-center scroll-span-align h-screen">
         
           <div className="container max-w-[1200px] -mt-20">
-                <h1 className="heading-4 text-center text-white text-6xl">
-                    Web3 <span className="text-blue-500">Freedoms, </span><span className="text-blue-500">Privileges</span> and<span className="text-blue-500">Benifits</span>
+                <h1 className="heading-4 text-center text-white text-5xl">
+                    Web3 <span className="text-blue-500">Freedoms, </span><span className="text-blue-500">Privileges</span> and<span className="text-blue-500">Benefits</span>
               </h1>
               <br/>
               <p className="pt-4 text-center font-semibold text-white text-4xl">
